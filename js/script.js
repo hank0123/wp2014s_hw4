@@ -116,7 +116,7 @@ window.fbAsyncInit = function () {
 	var js, fjs = d.getElementsByTagName(s)[0];
 	if (d.getElementById(id)) return;
 	js = d.createElement(s); js.id = id;
-	js.src = "//connect.facebook.net/zh_TW/sdk.js#xfbml=1&appId=320206518133001&version=v2.0";
+	js.src = "//connect.facebook.net/zh_TW/sdk.js#xfbml=1&appId=1448230968762675&version=v2.0";
 	fjs.parentNode.insertBefore(js, fjs);
 	}(document, 'script', 'facebook-jssdk'));
 	
